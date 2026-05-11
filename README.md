@@ -1,6 +1,6 @@
 # Agentic AI using LangGraph 🚀
 
-> Complete Topic-wise Notes, Code, and Projects from the CampusX LangGraph Playlist  
+> Complete Topic-wise Notes, Code, and Projects from this Course 
 > Repository Owner: **Mirza Yasir Abdullah Baig**
 
 ---
@@ -224,7 +224,7 @@ Agentic-AI-LangGraph/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Agentic-AI-LangGraph.git
+git clone https://github.com/mirzayasirabdullahbaig07/Agentic-AI-using-LangGraph.git
 ```
 
 ## Install Dependencies
@@ -259,7 +259,7 @@ By completing this repository, you will learn:
 
 ## Mirza Yasir Abdullah Baig
 
-AI Engineer | Agentic AI Enthusiast | LangGraph Developer 🚀
+AI Engineer | Agentic AI Engineer | GenAI Engineer 🚀
 
 ---
 
